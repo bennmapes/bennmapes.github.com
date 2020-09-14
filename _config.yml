@@ -1,0 +1,22 @@
+# Base configs
+url: "http://bennmapes.com"
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-177846944-1"
+
+# UI configs
+title: "Photography by Benn Mapes"
+subtitle: ""
+author: "Benn Mapes"
+header:
+ title: "Photography"
+ subtitle: "by Benn Mapes"
+footer:
+ name: "Hey there, my name is Benn"
+ bio: "I am a outdoorsman disguised as a software developer."
+web_design: "AJ"
+social_urls:
+  instagram: "https://www.instagram.com/bennmapes"
+  linkedin: "https://in.linkedin.com/in/bennmapes"
+  github: "https://www.github.com/bennmapes"
